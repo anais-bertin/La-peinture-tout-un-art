@@ -1,0 +1,33 @@
+h1{
+	text-align: center;
+	font-family: Open Sans;
+	text-decoration: underline;
+}
+
+h2{
+	color: darkslateblue;
+	text-align: center;
+}
+
+h3{
+	text-align: center;
+	font-family: Roboto, sans-serif;
+	border: 2px solid black;
+	padding: 10px;
+}
+
+body{
+	font-family: Open Sans, sans-serif;
+	color: black;
+	background-image: url(Images/Back2.jpg);
+}
+
+img{
+	width: 400px;
+	height: 350px;
+}
+
+mark{
+	background: none;
+	font-style: oblique;
+}
